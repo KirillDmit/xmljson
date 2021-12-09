@@ -20,4 +20,6 @@ with open('api.txt', 'w', encoding='utf8') as file:
     for date in stat:
         print(date, stat[date], file=file)
 
+#2021-11-28 - день ухода Градского из жизни
+
 
